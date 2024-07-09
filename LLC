@@ -450,99 +450,94 @@ Most know me as, Data Jackson!<br>
 
                <!--------------Work Experience----------->
                <section class="colorlib-experience" data-section="experience">
-                  <div class="colorlib-narrow-content">
-                     <div class="row">
-                        <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                           <h2>Work Experience</h2>
-                           <hr>
-                        </div>
-                     </div>
-                     <div class="row">
-                        <div class="col-md-12">
-                           <div class="timeline-centered">
-
-                              <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
-                                 <div class="timeline-entry-inner">
-                                    <div class="timeline-icon color-2">
-                                       <i class="fa fa-chart-line"></i>
-                                    </div>
-                                    <div class="timeline-label">
-                                       <h2><a href="#">JPM Chase</a>  <span> March 2021 - Current</span></h2>
-                                       <p><strong>VP, Data Products & Delivery </a></strong><br> As the product owner of three internal business applications and the information liaison between tech and business, I oversee a team of 8 developers. I facilitate daily cross functional collaboration, leveraging Agile methodologies to manage the backlog, size stories, and optimize deployment cycle</p>
-                                       <p></p>
-                                    </div>
-                                 </div>
-                                 
-                              <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
-                                 <div class="timeline-entry-inner">
-                                    <div class="timeline-icon color-5">
-                                       <i class="fa fa-user"></i>
-                                    </div>
-                                    <div class="timeline-label">
-                                       <h2><a href="#">Streamlytics</a>  <span>May 2021 - Dec 2022</span></h2>
-                                       <p><strong>Director, Data Strategy </strong><br> Hands-on data steward responsible for leading strategy, curating a data-driven brand narrative, and serving as a technical conduit between sales, engineering, and data growth and acquisition. As a principal contributor to science and infrastructure, I manage analytics data modeling, transfer, warehousing, and reporting.</p>
-                                       <p></p>
-                                    </div>
-                                 </div>
-                                 
-                              <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
-                                 <div class="timeline-entry-inner">
-                                    <div class="timeline-icon color-5">
-                                       <i class="fa fa-lightbulb"></i>
-                                    </div>
-                                    <div class="timeline-label">
-                                       <h2><a href="#">Data Jackson, LLC</a> <span>July 2019 - Present</span></h2>
-                                       <p><strong><a href="https://www.datajackson.com?view_as=subscriber">Founder</a></strong><br> A social movement to learn, collaborate, and leverage data science for economic inclusion.</p>
-                                       <p></p>
-                                    </div>
-                                 </div>
-                              </article>
-                              <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-                                 <div class="timeline-entry-inner">
-                                    <div class="timeline-icon color-1">
-                                       <i class="fa fa-code"></i>
-                                    </div>
-                                    <div class="timeline-label">
-                                       <h2><a href="#">Revionics</a> <span>April 2015 - July 2019</span></h2>
-                                       <p><strong>Manager, Markdown Science Services </strong><br> Optimize the Retail Price Lifecyle. Train bayesian demand models to learn retail business to extract price response to drive business decisions based on informed pricing models. </p>
-                                       <p></p>
-                                    </div>
-                                 </div>
-                              </article>
-                              <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
-                                 <div class="timeline-entry-inner">
-                                    <div class="timeline-icon color-2">
-                                       <i class="fa fa-globe"></i>
-                                    </div>
-                                    <div class="timeline-label">
-                                       <h2><a href="#">Coyote Logistics </a> <span>Dec 2013 - March 2015 </span></h2>
-                                       <p><strong>Junior Data Scientist </strong><br> Supply chain predictive analyst. Built out demand forecasting tool for bonus compensations. Built enterprise analytics dashboard using Tableau. <br></p>
-                                    </div>
-                                 </div>
-                              </article>
-                              <article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
-                                 <div class="timeline-entry-inner">
-                                    <div class="timeline-icon color-6">
-                                    </div>
-                                    <div class="timeline-label">
-                                       <h2><a href="#">FedEx Ground</a> <span>Dec 2009 - Dec 2013</span></h2>
-                                       <p><strong>Operations Manager</strong><br> GIS Analyst. Optimized warehouse throughput and delivery routes leveraging geopspatial models for route planning and loading. </p>
-                                       <p></p>
-                                    </div>
-                                 </div>
-                              </article>
-                              <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
-                                 <div class="timeline-entry-inner">
-                                    <div class="timeline-icon color-2">
-                                       <i class="fa fa-chart-line"></i>
-                                    </div>
-                                 </div>
-                              </article>
+                   <div class="colorlib-narrow-content">
+                       <div class="row">
+                           <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+                               <h2>Work Experience</h2>
+                               <hr>
                            </div>
-                        </div>
-                     </div>
-                  </div>
+                       </div>
+                       <div class="row">
+                           <div class="col-md-12">
+                               <div class="timeline-centered">
+               
+                                   <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
+                                       <div class="timeline-entry-inner">
+                                           <div class="timeline-icon color-2">
+                                               <i class="fa fa-chart-line"></i>
+                                           </div>
+                                           <div class="timeline-label">
+                                               <h2><a href="#">JPM Chase</a> <span>March 2021 - Current</span></h2>
+                                               <p><strong>VP, Data Products & Delivery</strong><br> As the product owner of three internal business applications and the information liaison between tech and business, I oversee a team of 8 developers. I facilitate daily cross functional collaboration, leveraging Agile methodologies to manage the backlog, size stories, and optimize deployment cycle</p>
+                                           </div>
+                                       </div>
+                                   </article>
+
+                                   <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
+                                       <div class="timeline-entry-inner">
+                                           <div class="timeline-icon color-5">
+                                               <i class="fa fa-user"></i>
+                                           </div>
+                                           <div class="timeline-label">
+                                               <h2><a href="#">Streamlytics</a> <span>May 2021 - Dec 2022</span></h2>
+                                               <p><strong>Director, Data Strategy</strong><br> Hands-on data steward responsible for leading strategy, curating a data-driven brand narrative, and serving as a technical conduit between sales, engineering, and data growth and acquisition. As a principal contributor to science and infrastructure, I manage analytics data modeling, transfer, warehousing, and reporting.</p>
+                                           </div>
+                                       </div>
+                                   </article>
+               
+                                   <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
+                                       <div class="timeline-entry-inner">
+                                           <div class="timeline-icon color-5">
+                                               <i class="fa fa-lightbulb"></i>
+                                           </div>
+                                           <div class="timeline-label">
+                                               <h2><a href="#">Data Jackson, LLC</a> <span>July 2019 - Present</span></h2>
+                                               <p><strong><a href="https://www.datajackson.com?view_as=subscriber">Founder</a></strong><br> A social movement to learn, collaborate, and leverage data science for economic inclusion.</p>
+                                           </div>
+                                       </div>
+                                   </article>
+
+                                   <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                                       <div class="timeline-entry-inner">
+                                           <div class="timeline-icon color-1">
+                                               <i class="fa fa-code"></i>
+                                           </div>
+                                           <div class="timeline-label">
+                                               <h2><a href="#">Revionics</a> <span>April 2015 - July 2019</span></h2>
+                                               <p><strong>Manager, Markdown Science Services</strong><br> Optimize the Retail Price Lifecyle. Train Bayesian demand models to learn retail business to extract price response to drive business decisions based on informed pricing models.</p>
+                                           </div>
+                                       </div>
+                                   </article>
+               
+                                   <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
+                                       <div class="timeline-entry-inner">
+                                           <div class="timeline-icon color-2">
+                                               <i class="fa fa-globe"></i>
+                                           </div>
+                                           <div class="timeline-label">
+                                               <h2><a href="#">Coyote Logistics</a> <span>Dec 2013 - March 2015</span></h2>
+                                               <p><strong>Junior Data Scientist</strong><br> Supply chain predictive analyst. Built out demand forecasting tool for bonus compensations. Built enterprise analytics dashboard using Tableau.</p>
+                                           </div>
+                                       </div>
+                                   </article>
+
+                                   <article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
+                                       <div class="timeline-entry-inner">
+                                           <div class="timeline-icon color-6">
+                                           </div>
+                                           <div class="timeline-label">
+                                               <h2><a href="#">FedEx Ground</a> <span>Dec 2009 - Dec 2013</span></h2>
+                                               <p><strong>Operations Manager</strong><br> GIS Analyst. Optimized warehouse throughput and delivery routes leveraging geospatial models for route planning and loading.</p>
+                                           </div>
+                                       </div>
+                                   </article>
+               
+                               </div>
+                           </div>
+                       </div>
+                   </div>
                </section>
+
 
                <!--------Projects---------->
               <!--  <section class="colorlib-education" data-section="projects">
