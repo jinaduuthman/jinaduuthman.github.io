@@ -1593,8 +1593,8 @@ align-items: stretch;}
   transition: opacity 0.6s ease, transform 0.6s ease;
 }
 .colorlib-recommendations .recommendation .icon {
-  width: 60px; /* Adjusted width */
-  height: 60px; /* Adjusted height */
+  width: 40px; /* Adjusted width */
+  height: 40px; /* Adjusted height */
   border-radius: 50%;
   overflow: hidden;
   margin-bottom: 15px;
