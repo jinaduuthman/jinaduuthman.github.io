@@ -1581,6 +1581,66 @@ align-items: stretch;}
 .js .animate-box {
   opacity: 0; }
 
+/*Recommendations section */
+
+.colorlib-recommendations .recommendation {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+  opacity: 0; /* Initially hidden for fade-in effect */
+  transform: translateY(30px); /* Initially off-set for fade-in effect */
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+.colorlib-recommendations .recommendation .icon {
+  width: 60px; /* Adjusted width */
+  height: 60px; /* Adjusted height */
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 15px;
+}
+.colorlib-recommendations .recommendation .icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.colorlib-recommendations .recommendation .details {
+  text-align: center;
+}
+.colorlib-recommendations .recommendation .name {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.colorlib-recommendations .recommendation .company {
+  font-style: italic;
+  margin-bottom: 10px;
+}
+.colorlib-recommendations .recommendation .quote {
+  font-style: italic;
+}
+
+/* Responsive styles */
+@media (min-width: 768px) {
+  .colorlib-recommendations .recommendation {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .colorlib-recommendations .recommendation .icon {
+    margin-right: 20px;
+    margin-bottom: 0;
+  }
+  .colorlib-recommendations .recommendation .details {
+    text-align: left;
+  }
+}
+
+/* Styles for loading on scroll */
+.reveal {
+  opacity: 1; /* Revealed */
+  transform: translateY(0); /* Reset transform */
+}
+
 
 /* Buy me a coffe button css*/
 .bmc-button img{width: 27px !important;margin-bottom: 0px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}.bmc-button{line-height: 36px !important;height:37px !important;text-decoration: none !important;display:inline-flex !important;color:#FFFFFF !important;background-color:#000 !important;border-radius: 3px !important;border: 1px solid transparent !important;padding: 1px 9px !important;font-size: 22px !important;letter-spacing: 0.6px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:'Cookie', cursive !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;-o-transition: 0.3s all linear !important;-webkit-transition: 0.3s all linear !important;-moz-transition: 0.3s all linear !important;-ms-transition: 0.3s all linear !important;transition: 0.3s all linear !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#FFFFFF !important;}
