@@ -1582,7 +1582,7 @@ align-items: stretch;}
   opacity: 0; }
 
 
-/*Recommendations section 
+/*Recommendations section */
 
 .colorlib-recommendations .recommendation {
   display: flex;
@@ -1621,7 +1621,7 @@ align-items: stretch;}
   font-style: italic;
 }
 
-*/
+
 
 /* Responsive styles */
 @media (min-width: 768px) {
