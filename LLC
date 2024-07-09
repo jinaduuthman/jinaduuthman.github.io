@@ -460,10 +460,35 @@ Most know me as, Data Jackson!<br>
                      <div class="row">
                         <div class="col-md-12">
                            <div class="timeline-centered">
+
+                              <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
+                                 <div class="timeline-entry-inner">
+                                    <div class="timeline-icon color-2">
+                                       <i class="fa fa-chart-line"></i>
+                                    </div>
+                                    <div class="timeline-label">
+                                       <h2><a href="#">JPM Chase</a>  <span> March 2021 - Current</span></h2>
+                                       <p><strong>VP, Data Products & Delivery </a></strong><br> As the product owner of three internal business applications and the information liaison between tech and business, I oversee a team of 8 developers. I facilitate daily cross functional collaboration, leveraging Agile methodologies to manage the backlog, size stories, and optimize deployment cycle</p>
+                                       <p></p>
+                                    </div>
+                                 </div>
+                                 
                               <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
                                  <div class="timeline-entry-inner">
                                     <div class="timeline-icon color-5">
                                        <i class="fa fa-user"></i>
+                                    </div>
+                                    <div class="timeline-label">
+                                       <h2><a href="#">Streamlytics</a>  <span>May 2021 - Dec 2022</span></h2>
+                                       <p><strong>Director, Data Strategy </strong><br> Hands-on data steward responsible for leading strategy, curating a data-driven brand narrative, and serving as a technical conduit between sales, engineering, and data growth and acquisition. As a principal contributor to science and infrastructure, I manage analytics data modeling, transfer, warehousing, and reporting.</p>
+                                       <p></p>
+                                    </div>
+                                 </div>
+                                 
+                              <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
+                                 <div class="timeline-entry-inner">
+                                    <div class="timeline-icon color-5">
+                                       <i class="fa fa-lightbulb"></i>
                                     </div>
                                     <div class="timeline-label">
                                        <h2><a href="#">Data Jackson, LLC</a> <span>July 2019 - Present</span></h2>
@@ -497,7 +522,7 @@ Most know me as, Data Jackson!<br>
                               </article>
                               <article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
                                  <div class="timeline-entry-inner">
-                                    <div class="timeline-icon color-none">
+                                    <div class="timeline-icon color-6">
                                     </div>
                                     <div class="timeline-label">
                                        <h2><a href="#">FedEx Ground</a> <span>Dec 2009 - Dec 2013</span></h2>
@@ -509,7 +534,7 @@ Most know me as, Data Jackson!<br>
                               <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
                                  <div class="timeline-entry-inner">
                                     <div class="timeline-icon color-2">
-                                       <i class="fa fa-globe"></i>
+                                       <i class="fa fa-chart-line"></i>
                                     </div>
                                  </div>
                               </article>
